@@ -5,130 +5,130 @@
   </head>
   <body>
     <outline title="Tecnologia" text="Tecnologia">
-      <outline htmlUrl="https://inkscape.org/news/" xmlUrl="https://inkscape.org/news/feed/" text="News feed" type="rss" title="News feed" />
-      <outline htmlUrl="https://g1.globo.com/tecnologia/" title="g1 &gt; Tecnologia" xmlUrl="https://g1.globo.com/dynamo/tecnologia/rss2.xml" text="g1 &gt; Tecnologia" type="rss" />
-      <outline text="Stack Overflow Blog" type="rss" xmlUrl="https://stackoverflow.blog/feed/atom/" title="Stack Overflow Blog" htmlUrl="https://stackoverflow.blog/" />
-      <outline type="rss" text="Blog do Dunossauro" htmlUrl="https://blog.dunossauro.com/" title="Blog do Dunossauro" xmlUrl="https://blog.dunossauro.com/feed.xml" />
-      <outline type="rss" htmlUrl="https://obsproject.com/blog" xmlUrl="https://obsproject.com/blog/rss" text="Blog Feed" title="Blog Feed" />
-      <outline text="newest submissions : sysadmin" xmlUrl="https://www.reddit.com/r/sysadmin/new/.rss" type="rss" title="newest submissions : sysadmin" htmlUrl="https://www.reddit.com/r/sysadmin/new/" />
-      <outline text="O Alvissareiro" type="rss" htmlUrl="https://www.spreaker.com/podcast/o-alvissareiro--5920998" title="O Alvissareiro" xmlUrl="https://www.spreaker.com/show/5920998/episodes/feed" />
-      <outline type="rss" xmlUrl="https://beeware.org/news/buzz/atom.xml" text="The Buzz" title="The Buzz" htmlUrl="http://beeware.org/zh_TW/news/buzz/" />
-      <outline text="Ana Rodrigues" htmlUrl="https://ohhelloana.blog/" title="Ana Rodrigues" type="rss" xmlUrl="https://ohhelloana.blog/feed.xml" />
-      <outline xmlUrl="https://vkc.sh/feed/" text="VKC.sh | Veronica Explains" htmlUrl="https://vkc.sh/" title="VKC.sh | Veronica Explains" type="rss" />
-      <outline title="Versão genérica" text="Versão genérica" type="rss" xmlUrl="https://generica.bearblog.dev/feed/" htmlUrl="https://generica.bearblog.dev/" />
-      <outline text="a causa das causas" type="rss" xmlUrl="https://wuwei.bearblog.dev/feed/" title="a causa das causas" htmlUrl="https://wuwei.bearblog.dev/" />
-      <outline title="F-Droid - Free and Open Source Android App Repository" text="F-Droid - Free and Open Source Android App Repository" xmlUrl="https://f-droid.org/feed.xml" htmlUrl="https://f-droid.org/en/" type="rss" />
-      <outline type="rss" htmlUrl="https://www.servethehome.com/" text="ServeTheHome" xmlUrl="http://feeds.feedburner.com/ServeTheHome" title="ServeTheHome" />
-      <outline title="TRILUX" type="rss" htmlUrl="https://trilux.org/" text="TRILUX" xmlUrl="https://trilux.org/feed.xml" />
-      <outline title="https://jlearn.site/index.xml" htmlUrl="https://jlearn.site/" type="rss" xmlUrl="https://jlearn.site/index.xml" text="https://jlearn.site/index.xml" />
-      <outline text="claromes.com" xmlUrl="https://claromes.com/feeds/rss.xml" type="rss" htmlUrl="https://claromes.com/" title="claromes.com" />
-      <outline htmlUrl="https://yasuda.dev.br/" xmlUrl="https://yasuda.dev.br/feed.xml" text="Ricardo Yasuda, software developer" type="rss" title="Ricardo Yasuda, software developer" />
-      <outline text="Bruno Rocha" type="rss" htmlUrl="http://https//rochacbruno.com" title="Bruno Rocha" xmlUrl="https://rochacbruno.com/index.rss" />
-      <outline text="GIMP" xmlUrl="https://www.gimp.org/feeds/atom.xml" type="rss" htmlUrl="https://www.gimp.org/" title="GIMP" />
-      <outline text="Renne Rocha" xmlUrl="https://rennerocha.com/index.xml" title="Renne Rocha" htmlUrl="https://rennerocha.com/" type="rss" />
-      <outline type="rss" htmlUrl="https://librearts.org/" text="Home on Libre Arts" title="Home on Libre Arts" xmlUrl="https://librearts.org/index.xml" />
-      <outline type="rss" xmlUrl="https://blog.jaraco.com/feed.xml" text="Jason R. Coombs" htmlUrl="https://www.jaraco.com/" title="Jason R. Coombs" />
-      <outline text="KDE Eco" xmlUrl="https://eco.kde.org/index.xml" htmlUrl="https://eco.kde.org/" type="rss" title="KDE Eco" />
-      <outline xmlUrl="https://naomilago.com/index.xml" title="Naomi Lago" type="rss" text="Naomi Lago" htmlUrl="https://naomilago.com/" />
-      <outline htmlUrl="https://tenthousandmeters.com/" title="Ten thousand meters" type="rss" text="Ten thousand meters" xmlUrl="https://tenthousandmeters.com/feeds/all.atom.xml" />
-      <outline xmlUrl="https://dead.garden/blog/feed.rss" htmlUrl="https://dead.garden/blog/index.html" type="rss" title="Jo&apos;s Blog" text="Jo&apos;s Blog" />
-      <outline htmlUrl="https://dl.acm.org/action/doSearch?type=advanced&amp;mi=16foxly&amp;af=R&amp;AllField=%22python%22+AND+%22typing%22&amp;content=standard&amp;target=default&amp;sortBy=recency" title="Association for Computing Machinery: Keyword search for query" type="rss" text="Association for Computing Machinery: Keyword search for query" xmlUrl="https://dl.acm.org/action/showFeed?ui=0&amp;mi=16foxly&amp;type=search&amp;feed=rss&amp;query=%2526AllField%253D%252522python%252522%252BAND%252B%252522typing%252522%2526content%253Dstandard%2526target%253Ddefault%2526sortBy%253Drecency" />
-      <outline title="Novidades do TecMundo" xmlUrl="https://rss.tecmundo.com.br/feed" text="Novidades do TecMundo" type="rss" htmlUrl="https://www.tecmundo.com.br/" />
-      <outline htmlUrl="https://www.bleepingcomputer.com/" type="rss" text="BleepingComputer" title="BleepingComputer" xmlUrl="https://www.bleepingcomputer.com/feed/" />
-      <outline type="rss" htmlUrl="https://www.youtube.com/channel/UCNyCzdosdklZvkA4jwmlY0w" title="Leonardo Vieira - Dominando Redes" text="Leonardo Vieira - Dominando Redes" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNyCzdosdklZvkA4jwmlY0w" />
-      <outline title="LINUXtips" htmlUrl="https://www.youtube.com/channel/UCJnKVGmXRXrH49Tvrx5X0Sw" text="LINUXtips" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJnKVGmXRXrH49Tvrx5X0Sw" />
-      <outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxqqxhR7GDd3vZbivhzUcmQ" htmlUrl="https://www.youtube.com/channel/UCxqqxhR7GDd3vZbivhzUcmQ" title="Coach De Osasco" text="Coach De Osasco" />
-      <outline title="Slackjeff" text="Slackjeff" htmlUrl="https://www.youtube.com/channel/UClz3DneoYlccluy4hBlx86Q" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClz3DneoYlccluy4hBlx86Q" />
+      <outline title="TRILUX" htmlUrl="https://trilux.org/" xmlUrl="https://trilux.org/feed.xml" type="rss" text="TRILUX" />
+      <outline title="Blog do Dunossauro" text="Blog do Dunossauro" xmlUrl="https://blog.dunossauro.com/feed.xml" type="rss" htmlUrl="https://blog.dunossauro.com/" />
+      <outline htmlUrl="https://www.youtube.com/channel/UCJnKVGmXRXrH49Tvrx5X0Sw" type="rss" title="LINUXtips" text="LINUXtips" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJnKVGmXRXrH49Tvrx5X0Sw" />
+      <outline title="ServeTheHome" xmlUrl="http://feeds.feedburner.com/ServeTheHome" type="rss" text="ServeTheHome" htmlUrl="https://www.servethehome.com/" />
+      <outline htmlUrl="https://www.jaraco.com/" text="Jason R. Coombs" title="Jason R. Coombs" type="rss" xmlUrl="https://blog.jaraco.com/feed.xml" />
+      <outline xmlUrl="https://www.reddit.com/r/sysadmin/new/.rss" htmlUrl="https://www.reddit.com/r/sysadmin/new/" title="newest submissions : sysadmin" text="newest submissions : sysadmin" type="rss" />
+      <outline title="VKC.sh | Veronica Explains" htmlUrl="https://vkc.sh/" type="rss" xmlUrl="https://vkc.sh/feed/" text="VKC.sh | Veronica Explains" />
+      <outline htmlUrl="https://f-droid.org/en/" type="rss" text="F-Droid - Free and Open Source Android App Repository" xmlUrl="https://f-droid.org/feed.xml" title="F-Droid - Free and Open Source Android App Repository" />
+      <outline text="Naomi Lago" xmlUrl="https://naomilago.com/index.xml" title="Naomi Lago" htmlUrl="https://naomilago.com/" type="rss" />
+      <outline type="rss" htmlUrl="https://tenthousandmeters.com/" xmlUrl="https://tenthousandmeters.com/feeds/all.atom.xml" text="Ten thousand meters" title="Ten thousand meters" />
+      <outline text="claromes.com" type="rss" xmlUrl="https://claromes.com/feeds/rss.xml" title="claromes.com" htmlUrl="https://claromes.com/" />
+      <outline htmlUrl="https://jlearn.site/" text="https://jlearn.site/index.xml" title="https://jlearn.site/index.xml" type="rss" xmlUrl="https://jlearn.site/index.xml" />
+      <outline htmlUrl="https://www.gimp.org/" type="rss" title="GIMP" text="GIMP" xmlUrl="https://www.gimp.org/feeds/atom.xml" />
+      <outline type="rss" xmlUrl="https://rennerocha.com/index.xml" htmlUrl="https://rennerocha.com/" title="Renne Rocha" text="Renne Rocha" />
+      <outline title="KDE Eco" htmlUrl="https://eco.kde.org/" text="KDE Eco" xmlUrl="https://eco.kde.org/index.xml" type="rss" />
+      <outline type="rss" title="Blog Feed" htmlUrl="https://obsproject.com/blog" text="Blog Feed" xmlUrl="https://obsproject.com/blog/rss" />
+      <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClz3DneoYlccluy4hBlx86Q" text="Slackjeff" title="Slackjeff" type="rss" htmlUrl="https://www.youtube.com/channel/UClz3DneoYlccluy4hBlx86Q" />
+      <outline title="Ricardo Yasuda, software developer" htmlUrl="https://yasuda.dev.br/" text="Ricardo Yasuda, software developer" type="rss" xmlUrl="https://yasuda.dev.br/feed.xml" />
+      <outline text="O Alvissareiro" title="O Alvissareiro" type="rss" xmlUrl="https://www.spreaker.com/show/5920998/episodes/feed" htmlUrl="https://www.spreaker.com/podcast/o-alvissareiro--5920998" />
+      <outline text="Jo&apos;s Blog" type="rss" title="Jo&apos;s Blog" htmlUrl="https://dead.garden/blog/index.html" xmlUrl="https://dead.garden/blog/feed.rss" />
+      <outline title="Bruno Rocha" htmlUrl="http://https//rochacbruno.com" type="rss" text="Bruno Rocha" xmlUrl="https://rochacbruno.com/index.rss" />
+      <outline htmlUrl="https://wuwei.bearblog.dev/" xmlUrl="https://wuwei.bearblog.dev/feed/" text="a causa das causas" type="rss" title="a causa das causas" />
+      <outline text="Home on Libre Arts" xmlUrl="https://librearts.org/index.xml" type="rss" htmlUrl="https://librearts.org/" title="Home on Libre Arts" />
+      <outline type="rss" xmlUrl="https://g1.globo.com/dynamo/tecnologia/rss2.xml" text="g1 &gt; Tecnologia" title="g1 &gt; Tecnologia" htmlUrl="https://g1.globo.com/tecnologia/" />
+      <outline type="rss" htmlUrl="https://dl.acm.org/action/doSearch?type=advanced&amp;mi=16foxly&amp;af=R&amp;AllField=%22python%22+AND+%22typing%22&amp;content=standard&amp;target=default&amp;sortBy=recency" text="Association for Computing Machinery: Keyword search for query" xmlUrl="https://dl.acm.org/action/showFeed?ui=0&amp;mi=16foxly&amp;type=search&amp;feed=rss&amp;query=%2526AllField%253D%252522python%252522%252BAND%252B%252522typing%252522%2526content%253Dstandard%2526target%253Ddefault%2526sortBy%253Drecency" title="Association for Computing Machinery: Keyword search for query" />
+      <outline title="Ana Rodrigues" htmlUrl="https://ohhelloana.blog/" xmlUrl="https://ohhelloana.blog/feed.xml" text="Ana Rodrigues" type="rss" />
+      <outline text="News feed" type="rss" xmlUrl="https://inkscape.org/news/feed/" htmlUrl="https://inkscape.org/news/" title="News feed" />
+      <outline xmlUrl="https://generica.bearblog.dev/feed/" text="Versão genérica" htmlUrl="https://generica.bearblog.dev/" title="Versão genérica" type="rss" />
+      <outline type="rss" text="Leonardo Vieira - Dominando Redes" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNyCzdosdklZvkA4jwmlY0w" htmlUrl="https://www.youtube.com/channel/UCNyCzdosdklZvkA4jwmlY0w" title="Leonardo Vieira - Dominando Redes" />
+      <outline text="BleepingComputer" xmlUrl="https://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/" title="BleepingComputer" type="rss" />
+      <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxqqxhR7GDd3vZbivhzUcmQ" title="Coach De Osasco" text="Coach De Osasco" type="rss" htmlUrl="https://www.youtube.com/channel/UCxqqxhR7GDd3vZbivhzUcmQ" />
+      <outline text="The Buzz" title="The Buzz" htmlUrl="http://beeware.org/zh_TW/news/buzz/" type="rss" xmlUrl="https://beeware.org/news/buzz/atom.xml" />
+      <outline text="Stack Overflow Blog" xmlUrl="https://stackoverflow.blog/feed/atom/" htmlUrl="https://stackoverflow.blog/" title="Stack Overflow Blog" type="rss" />
+      <outline text="Novidades do TecMundo" type="rss" xmlUrl="https://rss.tecmundo.com.br/feed" htmlUrl="https://www.tecmundo.com.br/" title="Novidades do TecMundo" />
     </outline>
     <outline text="Desenvolvimento" title="Desenvolvimento">
-      <outline title="Release notes from mkdocs-material" xmlUrl="https://github.com/squidfunk/mkdocs-material/releases.atom" htmlUrl="https://github.com/squidfunk/mkdocs-material/releases" text="Release notes from mkdocs-material" type="rss" />
-      <outline title="Python Insider" xmlUrl="https://blog.python.org/feeds/posts/default?alt=rss" type="rss" text="Python Insider" htmlUrl="https://pythoninsider.blogspot.com/" />
-      <outline xmlUrl="https://blog.codeberg.org/feeds/all.atom.xml" title="Codeberg News" htmlUrl="https://blog.codeberg.org/" text="Codeberg News" type="rss" />
-      <outline text="Release notes from pedalboard" type="rss" xmlUrl="https://github.com/spotify/pedalboard/releases.atom" htmlUrl="https://github.com/spotify/pedalboard/releases" title="Release notes from pedalboard" />
-      <outline text="Release notes from fastapi" htmlUrl="https://github.com/fastapi/fastapi/releases" xmlUrl="https://github.com/fastapi/fastapi/releases.atom" title="Release notes from fastapi" type="rss" />
-      <outline title="core.py" htmlUrl="https://podcasters.spotify.com/pod/show/corepy" xmlUrl="https://anchor.fm/s/eb6edc3c/podcast/rss" text="core.py" type="rss" />
-      <outline htmlUrl="https://pycoders.com/" title="PyCoder’s Weekly" type="rss" xmlUrl="https://pycoders.com/feed/Hkxm7K82" text="PyCoder’s Weekly" />
+      <outline text="Pyodide blog" type="rss" xmlUrl="https://blog.pyodide.org/index.xml" htmlUrl="https://blog.pyodide.org/" title="Pyodide blog" />
       <outline xmlUrl="https://htmx.org/essays/atom.xml" htmlUrl="https://htmx.org/essays/" type="rss" text="&lt;/&gt; htmx - high power tools for html - Essays" title="&lt;/&gt; htmx - high power tools for html - Essays" />
-      <outline htmlUrl="https://pyfound.blogspot.com/" xmlUrl="https://pyfound.blogspot.com/feeds/posts/default" text="Python Software Foundation News" title="Python Software Foundation News" type="rss" />
-      <outline type="rss" xmlUrl="https://github.com/frankie567/pwdlib/releases.atom" title="Release notes from pwdlib" text="Release notes from pwdlib" htmlUrl="https://github.com/frankie567/pwdlib/releases" />
-      <outline text="luciano@ratamero.com - RSS Feed" type="rss" htmlUrl="https://www.ratamero.com/" xmlUrl="https://www.ratamero.com/feed.xml" title="luciano@ratamero.com - RSS Feed" />
-      <outline xmlUrl="https://tiffs.dev/rss.xml" text="☠️ tiffs.dev" type="rss" htmlUrl="https://tiffs.dev/" title="☠️ tiffs.dev" />
-      <outline text="Release notes from pytest" xmlUrl="https://github.com/pytest-dev/pytest/releases.atom" htmlUrl="https://github.com/pytest-dev/pytest/releases" title="Release notes from pytest" type="rss" />
-      <outline text="Release notes from moviepy" htmlUrl="https://github.com/Zulko/moviepy/releases" title="Release notes from moviepy" xmlUrl="https://github.com/Zulko/moviepy/releases.atom" type="rss" />
-      <outline text="Release notes from poetry" xmlUrl="https://github.com/python-poetry/poetry/releases.atom" htmlUrl="https://github.com/python-poetry/poetry/releases" title="Release notes from poetry" type="rss" />
+      <outline text="Python Software Foundation News" htmlUrl="https://pyfound.blogspot.com/" xmlUrl="https://pyfound.blogspot.com/feeds/posts/default" type="rss" title="Python Software Foundation News" />
+      <outline title="Release notes from faker" xmlUrl="https://github.com/joke2k/faker/releases.atom" text="Release notes from faker" type="rss" htmlUrl="https://github.com/joke2k/faker/releases" />
+      <outline text="The Python Package Index Blog" type="rss" htmlUrl="https://blog.pypi.org/" title="The Python Package Index Blog" xmlUrl="https://blog.pypi.org/feed_rss_created.xml" />
+      <outline htmlUrl="https://github.com/Bubobubobubobubo/sardine/releases" xmlUrl="https://github.com/Bubobubobubobubo/sardine/releases.atom" text="Release notes from sardine" type="rss" title="Release notes from sardine" />
+      <outline title="Blog on OpenTelemetry" htmlUrl="https://opentelemetry.io/blog/" type="rss" xmlUrl="https://opentelemetry.io/blog/index.xml" text="Blog on OpenTelemetry" />
+      <outline xmlUrl="https://github.com/spotify/pedalboard/releases.atom" text="Release notes from pedalboard" htmlUrl="https://github.com/spotify/pedalboard/releases" title="Release notes from pedalboard" type="rss" />
+      <outline text="Lucas Montano" title="Lucas Montano" htmlUrl="https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyHOBY6IDZF9zOKJPou2Rgg" type="rss" />
+      <outline title="Programador Lhama" text="Programador Lhama" htmlUrl="https://www.youtube.com/channel/UCBYJKJXaigXVTVsr2UmtWyg" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBYJKJXaigXVTVsr2UmtWyg" />
+      <outline title="PyCoder’s Weekly" htmlUrl="https://pycoders.com/" type="rss" xmlUrl="https://pycoders.com/feed/Hkxm7K82" text="PyCoder’s Weekly" />
+      <outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCa7eROciOGhUNB-ugJ2GMqg" text="Programador Hobbista" htmlUrl="https://www.youtube.com/channel/UCa7eROciOGhUNB-ugJ2GMqg" title="Programador Hobbista" />
+      <outline htmlUrl="https://pythoninsider.blogspot.com/" xmlUrl="https://blog.python.org/feeds/posts/default?alt=rss" title="Python Insider" type="rss" text="Python Insider" />
+      <outline htmlUrl="https://github.com/python-poetry/poetry/releases" type="rss" text="Release notes from poetry" title="Release notes from poetry" xmlUrl="https://github.com/python-poetry/poetry/releases.atom" />
+      <outline text="Eduardo Mendes" title="Eduardo Mendes" htmlUrl="https://www.youtube.com/channel/UCAaKeg-BocRqphErdtIUFFw" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAaKeg-BocRqphErdtIUFFw" />
+      <outline text="Release notes from rich" xmlUrl="https://github.com/Textualize/rich/releases.atom" htmlUrl="https://github.com/Textualize/rich/releases" type="rss" title="Release notes from rich" />
+      <outline text="Release notes from pytest" htmlUrl="https://github.com/pytest-dev/pytest/releases" title="Release notes from pytest" type="rss" xmlUrl="https://github.com/pytest-dev/pytest/releases.atom" />
+      <outline xmlUrl="https://twitchrss.com/feeds/?username=dunossauro&amp;feed=streams" title="TwitchRSS &gt; dunossauro &gt; Streams" text="TwitchRSS &gt; dunossauro &gt; Streams" type="rss" />
+      <outline type="rss" xmlUrl="https://indieweb.org/this-week/feed.xml" text="This Week in the IndieWeb" htmlUrl="https://indieweb.org/this-week" title="This Week in the IndieWeb" />
       <outline text="Release notes from textual" type="rss" xmlUrl="https://github.com/Textualize/textual/releases.atom" htmlUrl="https://github.com/Textualize/textual/releases" title="Release notes from textual" />
-      <outline htmlUrl="https://blog.pyodide.org/" title="Pyodide blog" text="Pyodide blog" type="rss" xmlUrl="https://blog.pyodide.org/index.xml" />
-      <outline htmlUrl="https://peps.python.org/" text="Newest Python PEPs" title="Newest Python PEPs" xmlUrl="https://peps.python.org/peps.rss/" type="rss" />
-      <outline htmlUrl="https://github.com/Bubobubobubobubo/sardine/releases" title="Release notes from sardine" xmlUrl="https://github.com/Bubobubobubobubo/sardine/releases.atom" text="Release notes from sardine" type="rss" />
-      <outline text="TwitchRSS &gt; dunossauro &gt; Streams" xmlUrl="https://twitchrss.com/feeds/?username=dunossauro&amp;feed=streams" type="rss" title="TwitchRSS &gt; dunossauro &gt; Streams" />
-      <outline type="rss" htmlUrl="https://indieweb.org/this-week" text="This Week in the IndieWeb" title="This Week in the IndieWeb" xmlUrl="https://indieweb.org/this-week/feed.xml" />
-      <outline htmlUrl="https://www.youtube.com/channel/UCAaKeg-BocRqphErdtIUFFw" text="Eduardo Mendes" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAaKeg-BocRqphErdtIUFFw" title="Eduardo Mendes" />
-      <outline type="rss" title="Release notes from rich" htmlUrl="https://github.com/Textualize/rich/releases" text="Release notes from rich" xmlUrl="https://github.com/Textualize/rich/releases.atom" />
-      <outline xmlUrl="https://opentelemetry.io/blog/index.xml" title="Blog on OpenTelemetry" text="Blog on OpenTelemetry" type="rss" htmlUrl="https://opentelemetry.io/blog/" />
-      <outline text="Release notes from pydantic" type="rss" xmlUrl="https://github.com/pydantic/pydantic/releases.atom" title="Release notes from pydantic" htmlUrl="https://github.com/pydantic/pydantic/releases" />
-      <outline htmlUrl="https://blog.pypi.org/" text="The Python Package Index Blog" xmlUrl="https://blog.pypi.org/feed_rss_created.xml" type="rss" title="The Python Package Index Blog" />
-      <outline type="rss" xmlUrl="https://pypy.org/rss.xml" text="PyPy" title="PyPy" htmlUrl="https://www.pypy.org/" />
-      <outline htmlUrl="https://github.com/astral-sh/ruff/releases" title="Release notes from ruff" text="Release notes from ruff" xmlUrl="https://github.com/astral-sh/ruff/releases.atom" type="rss" />
-      <outline htmlUrl="https://github.com/joke2k/faker/releases" title="Release notes from faker" type="rss" text="Release notes from faker" xmlUrl="https://github.com/joke2k/faker/releases.atom" />
-      <outline text="Programador Lhama" htmlUrl="https://www.youtube.com/channel/UCBYJKJXaigXVTVsr2UmtWyg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBYJKJXaigXVTVsr2UmtWyg" title="Programador Lhama" type="rss" />
-      <outline title="Téo Me Why" type="rss" text="Téo Me Why" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-Xa9J9-B4jBOoBNIHkMMKA" htmlUrl="https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA" />
-      <outline text="Waldemar Neto - Dev Lab" title="Waldemar Neto - Dev Lab" type="rss" htmlUrl="https://www.youtube.com/channel/UCqmJGTdcMIRXOZuukHZ8TqA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqmJGTdcMIRXOZuukHZ8TqA" />
-      <outline htmlUrl="https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g" text="Attekita Dev" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCetRsdZxDQDcgVDJd6erz6g" title="Attekita Dev" />
-      <outline htmlUrl="https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg" text="Lucas Montano" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyHOBY6IDZF9zOKJPou2Rgg" type="rss" title="Lucas Montano" />
-      <outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCa7eROciOGhUNB-ugJ2GMqg" text="Programador Hobbista" title="Programador Hobbista" htmlUrl="https://www.youtube.com/channel/UCa7eROciOGhUNB-ugJ2GMqg" />
+      <outline htmlUrl="https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCetRsdZxDQDcgVDJd6erz6g" type="rss" title="Attekita Dev" text="Attekita Dev" />
+      <outline htmlUrl="https://blog.codeberg.org/" text="Codeberg News" type="rss" title="Codeberg News" xmlUrl="https://blog.codeberg.org/feeds/all.atom.xml" />
+      <outline xmlUrl="https://github.com/Zulko/moviepy/releases.atom" title="Release notes from moviepy" htmlUrl="https://github.com/Zulko/moviepy/releases" text="Release notes from moviepy" type="rss" />
+      <outline type="rss" xmlUrl="https://github.com/frankie567/pwdlib/releases.atom" text="Release notes from pwdlib" htmlUrl="https://github.com/frankie567/pwdlib/releases" title="Release notes from pwdlib" />
+      <outline text="☠️ tiffs.dev" xmlUrl="https://tiffs.dev/rss.xml" type="rss" htmlUrl="https://tiffs.dev/" title="☠️ tiffs.dev" />
+      <outline xmlUrl="https://peps.python.org/peps.rss/" title="Newest Python PEPs" text="Newest Python PEPs" type="rss" htmlUrl="https://peps.python.org/" />
+      <outline title="core.py" text="core.py" xmlUrl="https://anchor.fm/s/eb6edc3c/podcast/rss" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/corepy" />
+      <outline htmlUrl="https://www.ratamero.com/" xmlUrl="https://www.ratamero.com/feed.xml" text="luciano@ratamero.com - RSS Feed" title="luciano@ratamero.com - RSS Feed" type="rss" />
+      <outline xmlUrl="https://github.com/squidfunk/mkdocs-material/releases.atom" htmlUrl="https://github.com/squidfunk/mkdocs-material/releases" title="Release notes from mkdocs-material" type="rss" text="Release notes from mkdocs-material" />
+      <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-Xa9J9-B4jBOoBNIHkMMKA" text="Téo Me Why" type="rss" title="Téo Me Why" htmlUrl="https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA" />
+      <outline htmlUrl="https://github.com/fastapi/fastapi/releases" text="Release notes from fastapi" xmlUrl="https://github.com/fastapi/fastapi/releases.atom" type="rss" title="Release notes from fastapi" />
+      <outline title="Release notes from ruff" xmlUrl="https://github.com/astral-sh/ruff/releases.atom" text="Release notes from ruff" type="rss" htmlUrl="https://github.com/astral-sh/ruff/releases" />
+      <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqmJGTdcMIRXOZuukHZ8TqA" htmlUrl="https://www.youtube.com/channel/UCqmJGTdcMIRXOZuukHZ8TqA" title="Waldemar Neto - Dev Lab" text="Waldemar Neto - Dev Lab" type="rss" />
+      <outline text="Release notes from pydantic" title="Release notes from pydantic" xmlUrl="https://github.com/pydantic/pydantic/releases.atom" htmlUrl="https://github.com/pydantic/pydantic/releases" type="rss" />
+      <outline text="PyPy" title="PyPy" type="rss" htmlUrl="https://www.pypy.org/" xmlUrl="https://pypy.org/rss.xml" />
     </outline>
     <outline title="Podcast" text="Podcast">
-      <outline xmlUrl="https://www.hipsters.tech/feed/podcast/" type="rss" title="Hipsters Ponto Tech" text="Hipsters Ponto Tech" htmlUrl="https://www.hipsters.tech/" />
-      <outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCD93px0UneWNFg_HxV4naQ" htmlUrl="https://www.youtube.com/channel/UCCD93px0UneWNFg_HxV4naQ" text="DESCE A LETRA SHOW" title="DESCE A LETRA SHOW" />
-      <outline type="rss" text="Foco Acessível" htmlUrl="http://focoacessivel.com.br/" title="Foco Acessível" xmlUrl="https://anchor.fm/s/e14f7d9c/podcast/rss" />
-      <outline htmlUrl="https://www.omnycontent.com/d/playlist/651a251e-06e1-47e0-9336-ac5a00f41628/cc69c790-accf-4070-aa63-adff011e10c3/c9dd3551-b9cc-4f88-98bb-adff011e123e/podcast.rss" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/651a251e-06e1-47e0-9336-ac5a00f41628/cc69c790-accf-4070-aa63-adff011e10c3/c9dd3551-b9cc-4f88-98bb-adff011e123e/podcast.rss" title="Choque de Cultura - Ambiente de Música" text="Choque de Cultura - Ambiente de Música" />
-      <outline title="Não me entenda mal" xmlUrl="https://feeds.libsyn.com/556337/rss" type="rss" htmlUrl="https://sites.libsyn.com/556337" text="Não me entenda mal" />
-      <outline htmlUrl="https://www.b9.com.br/shows/naruhodo/" title="Naruhodo! • B9" type="rss" xmlUrl="https://www.b9.com.br/shows/naruhodo/feed/" text="Naruhodo! • B9" />
-      <outline xmlUrl="https://revistainspirec.com.br/feed/podcast/?nocache" type="rss" text="Inédita Pamonha" title="Inédita Pamonha" htmlUrl="https://revistainspirec.com.br/news/" />
-      <outline type="rss" htmlUrl="https://www.youtube.com/channel/UCNV2eEr4N2DNWv2TC3_EClA" text="Os três elementos" title="Os três elementos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNV2eEr4N2DNWv2TC3_EClA" />
+      <outline xmlUrl="https://anchor.fm/s/e14f7d9c/podcast/rss" htmlUrl="http://focoacessivel.com.br/" text="Foco Acessível" type="rss" title="Foco Acessível" />
+      <outline htmlUrl="https://www.b9.com.br/shows/naruhodo/" type="rss" title="Naruhodo! • B9" xmlUrl="https://www.b9.com.br/shows/naruhodo/feed/" text="Naruhodo! • B9" />
+      <outline title="Inédita Pamonha" type="rss" text="Inédita Pamonha" xmlUrl="https://revistainspirec.com.br/feed/podcast/?nocache" htmlUrl="https://revistainspirec.com.br/news/" />
+      <outline text="Não me entenda mal" htmlUrl="https://sites.libsyn.com/556337" title="Não me entenda mal" type="rss" xmlUrl="https://feeds.libsyn.com/556337/rss" />
+      <outline htmlUrl="https://www.youtube.com/channel/UCNV2eEr4N2DNWv2TC3_EClA" text="Os três elementos" title="Os três elementos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNV2eEr4N2DNWv2TC3_EClA" type="rss" />
+      <outline text="Choque de Cultura - Ambiente de Música" htmlUrl="https://www.omnycontent.com/d/playlist/651a251e-06e1-47e0-9336-ac5a00f41628/cc69c790-accf-4070-aa63-adff011e10c3/c9dd3551-b9cc-4f88-98bb-adff011e123e/podcast.rss" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/651a251e-06e1-47e0-9336-ac5a00f41628/cc69c790-accf-4070-aa63-adff011e10c3/c9dd3551-b9cc-4f88-98bb-adff011e123e/podcast.rss" title="Choque de Cultura - Ambiente de Música" />
+      <outline title="DESCE A LETRA SHOW" text="DESCE A LETRA SHOW" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCD93px0UneWNFg_HxV4naQ" htmlUrl="https://www.youtube.com/channel/UCCD93px0UneWNFg_HxV4naQ" type="rss" />
+      <outline htmlUrl="https://www.hipsters.tech/" text="Hipsters Ponto Tech" xmlUrl="https://www.hipsters.tech/feed/podcast/" type="rss" title="Hipsters Ponto Tech" />
     </outline>
     <outline text="Youtube" title="Youtube">
-      <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIfYJf1LbRo1ft3NM2AE34A" text="Ed Topzero" type="rss" htmlUrl="https://www.youtube.com/channel/UCIfYJf1LbRo1ft3NM2AE34A" title="Ed Topzero" />
-      <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFzODWkN1gXm4ryOgLK8Deg" htmlUrl="https://www.youtube.com/channel/UCFzODWkN1gXm4ryOgLK8Deg" type="rss" text="Ludoviajante" title="Ludoviajante" />
-      <outline htmlUrl="https://www.youtube.com/channel/UCYBAN_yOwqKG6tlaPHvROqg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYBAN_yOwqKG6tlaPHvROqg" type="rss" text="Luciano Ratamero" title="Luciano Ratamero" />
-      <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCk5BcU1rOy6hepflk7_q_Pw" type="rss" title="Meteoro Brasil" text="Meteoro Brasil" htmlUrl="https://www.youtube.com/channel/UCk5BcU1rOy6hepflk7_q_Pw" />
-      <outline htmlUrl="https://www.youtube.com/channel/UCMTEVk6HFsuiVg9oIx7bntA" title="Poeira Jogos" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMTEVk6HFsuiVg9oIx7bntA" text="Poeira Jogos" type="rss" />
-      <outline text="Flipo" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCprHvnB-8rntlHd6-8v9zmg" title="Flipo" htmlUrl="https://www.youtube.com/channel/UCprHvnB-8rntlHd6-8v9zmg" type="rss" />
-      <outline text="safesrc" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWFmlmegFcu6lvAmeBtV3cg" type="rss" htmlUrl="https://www.youtube.com/channel/UCWFmlmegFcu6lvAmeBtV3cg" title="safesrc" />
-      <outline text="Tecnologia e Classe (TeClas)" title="Tecnologia e Classe (TeClas)" htmlUrl="https://www.youtube.com/channel/UCYVrkMZdrjq5eICOG6Rxiwg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYVrkMZdrjq5eICOG6Rxiwg" type="rss" />
-      <outline text="Jovem Nerd" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmEClzCBDx-vrt0GuSKBd9g" htmlUrl="https://www.youtube.com/channel/UCmEClzCBDx-vrt0GuSKBd9g" type="rss" title="Jovem Nerd" />
-      <outline type="rss" text="arvro" htmlUrl="https://www.youtube.com/channel/UCXWilBOsa-Dm9BJYAJ3TzoQ" title="arvro" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXWilBOsa-Dm9BJYAJ3TzoQ" />
-      <outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCm2CE2YfpmobBmF8ARLPzAw" text="Caue Moura" htmlUrl="https://www.youtube.com/channel/UCm2CE2YfpmobBmF8ARLPzAw" title="Caue Moura" />
+      <outline title="Ed Topzero" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIfYJf1LbRo1ft3NM2AE34A" text="Ed Topzero" htmlUrl="https://www.youtube.com/channel/UCIfYJf1LbRo1ft3NM2AE34A" type="rss" />
+      <outline type="rss" htmlUrl="https://www.youtube.com/channel/UCFzODWkN1gXm4ryOgLK8Deg" title="Ludoviajante" text="Ludoviajante" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFzODWkN1gXm4ryOgLK8Deg" />
+      <outline htmlUrl="https://www.youtube.com/channel/UCk5BcU1rOy6hepflk7_q_Pw" title="Meteoro Brasil" text="Meteoro Brasil" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCk5BcU1rOy6hepflk7_q_Pw" />
+      <outline title="Tecnologia e Classe (TeClas)" type="rss" htmlUrl="https://www.youtube.com/channel/UCYVrkMZdrjq5eICOG6Rxiwg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYVrkMZdrjq5eICOG6Rxiwg" text="Tecnologia e Classe (TeClas)" />
+      <outline title="Flipo" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCprHvnB-8rntlHd6-8v9zmg" text="Flipo" type="rss" htmlUrl="https://www.youtube.com/channel/UCprHvnB-8rntlHd6-8v9zmg" />
+      <outline text="arvro" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXWilBOsa-Dm9BJYAJ3TzoQ" title="arvro" htmlUrl="https://www.youtube.com/channel/UCXWilBOsa-Dm9BJYAJ3TzoQ" type="rss" />
+      <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCm2CE2YfpmobBmF8ARLPzAw" htmlUrl="https://www.youtube.com/channel/UCm2CE2YfpmobBmF8ARLPzAw" title="Caue Moura" type="rss" text="Caue Moura" />
+      <outline text="safesrc" htmlUrl="https://www.youtube.com/channel/UCWFmlmegFcu6lvAmeBtV3cg" type="rss" title="safesrc" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWFmlmegFcu6lvAmeBtV3cg" />
+      <outline text="Poeira Jogos" type="rss" htmlUrl="https://www.youtube.com/channel/UCMTEVk6HFsuiVg9oIx7bntA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMTEVk6HFsuiVg9oIx7bntA" title="Poeira Jogos" />
+      <outline title="Luciano Ratamero" text="Luciano Ratamero" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYBAN_yOwqKG6tlaPHvROqg" htmlUrl="https://www.youtube.com/channel/UCYBAN_yOwqKG6tlaPHvROqg" />
+      <outline htmlUrl="https://www.youtube.com/channel/UCmEClzCBDx-vrt0GuSKBd9g" title="Jovem Nerd" text="Jovem Nerd" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmEClzCBDx-vrt0GuSKBd9g" />
+      <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClu474HMt895mVxZdlIHXEA" text="Nerdologia" htmlUrl="https://www.youtube.com/channel/UClu474HMt895mVxZdlIHXEA" title="Nerdologia" type="rss" />
+      <outline htmlUrl="https://www.youtube.com/channel/UC8tnKW-FN6LdvKazw5RmOOQ" title="Soberana" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8tnKW-FN6LdvKazw5RmOOQ" text="Soberana" type="rss" />
     </outline>
     <outline text="Musicas" title="Musicas">
-      <outline text="Dead Fish" type="rss" htmlUrl="https://www.youtube.com/channel/UCDXLfrS9dFh2yMkvjUEjpsQ" title="Dead Fish" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDXLfrS9dFh2yMkvjUEjpsQ" />
-      <outline text="Sabaton" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjQhd1APsd5NQhiVZV7GYzg" title="Sabaton" htmlUrl="https://www.youtube.com/channel/UCjQhd1APsd5NQhiVZV7GYzg" type="rss" />
-      <outline type="rss" htmlUrl="https://www.youtube.com/channel/UCOJZ1tna8yj8mAEITPkHNCQ" title="Slipknot" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOJZ1tna8yj8mAEITPkHNCQ" text="Slipknot" />
-      <outline htmlUrl="https://www.youtube.com/channel/UCZU9T1ceaOgwfLRq7OKFU4Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZU9T1ceaOgwfLRq7OKFU4Q" text="Linkin Park" type="rss" title="Linkin Park" />
-      <outline xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAOiVaJJlH0Oduv48NN0mMA" type="rss" text="Ghost" htmlUrl="https://www.youtube.com/channel/UCAOiVaJJlH0Oduv48NN0mMA" title="Ghost" />
-      <outline text="Black Pantera" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ8jINeY1FVKhUzltQ0-cUA" htmlUrl="https://www.youtube.com/channel/UCJ8jINeY1FVKhUzltQ0-cUA" title="Black Pantera" type="rss" />
-      <outline htmlUrl="https://www.youtube.com/channel/UCJeH7gl6PbDVV4DTldIOPOA" type="rss" title="Evanescence" text="Evanescence" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJeH7gl6PbDVV4DTldIOPOA" />
-      <outline text="Avenged Sevenfold" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFcqi7MrlzIp9RMTtUlxE8g" htmlUrl="https://www.youtube.com/channel/UCFcqi7MrlzIp9RMTtUlxE8g" title="Avenged Sevenfold" />
-      <outline title="Steve “Steve&apos;n&apos;Seagulls” Seagulls" htmlUrl="https://www.youtube.com/channel/UCCmfZuv1KR-WpKt6s-FJPmQ" text="Steve “Steve&apos;n&apos;Seagulls” Seagulls" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCmfZuv1KR-WpKt6s-FJPmQ" />
+      <outline title="Dead Fish" type="rss" htmlUrl="https://www.youtube.com/channel/UCDXLfrS9dFh2yMkvjUEjpsQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDXLfrS9dFh2yMkvjUEjpsQ" text="Dead Fish" />
+      <outline type="rss" title="Avenged Sevenfold" htmlUrl="https://www.youtube.com/channel/UCFcqi7MrlzIp9RMTtUlxE8g" text="Avenged Sevenfold" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFcqi7MrlzIp9RMTtUlxE8g" />
+      <outline type="rss" text="Slipknot" title="Slipknot" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOJZ1tna8yj8mAEITPkHNCQ" htmlUrl="https://www.youtube.com/channel/UCOJZ1tna8yj8mAEITPkHNCQ" />
+      <outline text="Steve “Steve&apos;n&apos;Seagulls” Seagulls" htmlUrl="https://www.youtube.com/channel/UCCmfZuv1KR-WpKt6s-FJPmQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCmfZuv1KR-WpKt6s-FJPmQ" type="rss" title="Steve “Steve&apos;n&apos;Seagulls” Seagulls" />
+      <outline htmlUrl="https://www.youtube.com/channel/UCjQhd1APsd5NQhiVZV7GYzg" text="Sabaton" type="rss" title="Sabaton" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjQhd1APsd5NQhiVZV7GYzg" />
+      <outline text="Ghost" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAOiVaJJlH0Oduv48NN0mMA" htmlUrl="https://www.youtube.com/channel/UCAOiVaJJlH0Oduv48NN0mMA" title="Ghost" type="rss" />
+      <outline htmlUrl="https://www.youtube.com/channel/UCJ8jINeY1FVKhUzltQ0-cUA" title="Black Pantera" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ8jINeY1FVKhUzltQ0-cUA" text="Black Pantera" />
+      <outline text="Linkin Park" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZU9T1ceaOgwfLRq7OKFU4Q" type="rss" title="Linkin Park" htmlUrl="https://www.youtube.com/channel/UCZU9T1ceaOgwfLRq7OKFU4Q" />
+      <outline type="rss" text="Evanescence" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJeH7gl6PbDVV4DTldIOPOA" title="Evanescence" htmlUrl="https://www.youtube.com/channel/UCJeH7gl6PbDVV4DTldIOPOA" />
     </outline>
-    <outline title="Noticias/Diversos" text="Noticias/Diversos">
-      <outline xmlUrl="https://guites.bearblog.dev/feed/?type=rss" text="guites&apos; thoughts page" type="rss" title="guites&apos; thoughts page" htmlUrl="https://guites.bearblog.dev/feed/?type=rss" />
-      <outline htmlUrl="https://openrss.org/" title="Open RSS" xmlUrl="https://openrss.org/rss" text="Open RSS" type="rss" />
-      <outline htmlUrl="https://wedistribute.org/" text="We Distribute" type="rss" xmlUrl="https://wedistribute.org/feed/" title="We Distribute" />
-      <outline text="Luiz Yassuda" title="Luiz Yassuda" xmlUrl="https://luizyassuda.com/feed/" type="rss" htmlUrl="https://luizyassuda.com/" />
-      <outline title="Home Page on gmgall.net" text="Home Page on gmgall.net" type="rss" xmlUrl="https://www.gmgall.net/index.xml" htmlUrl="https://gmgall.net/" />
-      <outline type="rss" text="William Oliveira’s Blog" htmlUrl="https://woliveiras.com.br/" title="William Oliveira’s Blog" xmlUrl="https://woliveiras.com.br/rss.xml" />
-      <outline title="g1" xmlUrl="https://g1.globo.com/dynamo/concursos-e-emprego/rss2.xml" type="rss" text="g1" htmlUrl="http://g1.globo.com/" />
-      <outline type="rss" htmlUrl="https://lori.bearblog.dev/" title="blog da Lori" text="blog da Lori" xmlUrl="https://lori.bearblog.dev/feed/" />
-      <outline type="rss" text="BaixaCultura" title="BaixaCultura" xmlUrl="https://baixacultura.org/feed/" htmlUrl="https://baixacultura.org/" />
-      <outline xmlUrl="https://www.memedecarbono.com.br/feed/" text="Meme de Carbono" htmlUrl="https://www.memedecarbono.com.br/" type="rss" title="Meme de Carbono" />
-      <outline type="rss" text="g1" xmlUrl="https://g1.globo.com/dynamo/sao-paulo/itapetininga-regiao/rss2.xml" htmlUrl="http://g1.globo.com/" title="g1" />
-      <outline xmlUrl="http://feeds.arstechnica.com/arstechnica/index?format=xml" title="Ars Technica - All content" htmlUrl="https://arstechnica.com/" type="rss" text="Ars Technica - All content" />
-      <outline title="Naruhodo" type="rss" xmlUrl="https://feeds.simplecast.com/hwQVm5gy" htmlUrl="http://naruhodo.b9.com.br/" text="Naruhodo" />
-      <outline xmlUrl="https://anchor.fm/s/3157c214/podcast/rss" title="Balanço e Fúria" htmlUrl="https://anchor.fm/instagram.com/magnificientxseven" type="rss" text="Balanço e Fúria" />
-      <outline htmlUrl="https://daily.bandcamp.com/" title="Bandcamp Updates" xmlUrl="https://daily.bandcamp.com/feed" text="Bandcamp Updates" type="rss" />
+    <outline text="Noticias/Diversos" title="Noticias/Diversos">
+      <outline xmlUrl="https://daily.bandcamp.com/feed" type="rss" htmlUrl="https://daily.bandcamp.com/" title="Bandcamp Updates" text="Bandcamp Updates" />
+      <outline type="rss" xmlUrl="https://wedistribute.org/feed/" text="We Distribute" htmlUrl="https://wedistribute.org/" title="We Distribute" />
+      <outline type="rss" text="g1" title="g1" xmlUrl="https://g1.globo.com/dynamo/concursos-e-emprego/rss2.xml" htmlUrl="http://g1.globo.com/" />
+      <outline type="rss" htmlUrl="https://openrss.org/" title="Open RSS" text="Open RSS" xmlUrl="https://openrss.org/rss" />
+      <outline type="rss" htmlUrl="https://arstechnica.com/" title="Ars Technica - All content" text="Ars Technica - All content" xmlUrl="http://feeds.arstechnica.com/arstechnica/index?format=xml" />
+      <outline htmlUrl="https://anchor.fm/instagram.com/magnificientxseven" title="Balanço e Fúria" text="Balanço e Fúria" type="rss" xmlUrl="https://anchor.fm/s/3157c214/podcast/rss" />
+      <outline type="rss" text="guites&apos; thoughts page" title="guites&apos; thoughts page" xmlUrl="https://guites.bearblog.dev/feed/?type=rss" htmlUrl="https://guites.bearblog.dev/feed/?type=rss" />
+      <outline title="Naruhodo" xmlUrl="https://feeds.simplecast.com/hwQVm5gy" text="Naruhodo" type="rss" htmlUrl="http://naruhodo.b9.com.br/" />
+      <outline xmlUrl="https://www.gmgall.net/index.xml" htmlUrl="https://gmgall.net/" title="Home Page on gmgall.net" text="Home Page on gmgall.net" type="rss" />
+      <outline xmlUrl="https://g1.globo.com/dynamo/sao-paulo/itapetininga-regiao/rss2.xml" text="g1" title="g1" htmlUrl="http://g1.globo.com/" type="rss" />
+      <outline htmlUrl="https://baixacultura.org/" title="BaixaCultura" xmlUrl="https://baixacultura.org/feed/" text="BaixaCultura" type="rss" />
+      <outline xmlUrl="https://woliveiras.com.br/rss.xml" text="William Oliveira’s Blog" type="rss" title="William Oliveira’s Blog" htmlUrl="https://woliveiras.com.br/" />
+      <outline title="Meme de Carbono" xmlUrl="https://www.memedecarbono.com.br/feed/" text="Meme de Carbono" htmlUrl="https://www.memedecarbono.com.br/" type="rss" />
+      <outline text="blog da Lori" xmlUrl="https://lori.bearblog.dev/feed/" type="rss" htmlUrl="https://lori.bearblog.dev/" title="blog da Lori" />
+      <outline title="Luiz Yassuda" type="rss" text="Luiz Yassuda" htmlUrl="https://luizyassuda.com/" xmlUrl="https://luizyassuda.com/feed/" />
     </outline>
-  </body>
-</opml>ttps://tiffs.dev/" category="" />
   </body>
 </opml>
